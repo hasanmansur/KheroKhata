@@ -25,3 +25,10 @@ https://docs.nginx.com/nginx/admin-guide/basic-functionality/managing-configurat
 
 https://docs.nginx.com/nginx/admin-guide/security-controls/configuring-subrequest-authentication/
 https://www.nginx.com/blog/validating-oauth-2-0-access-tokens-nginx/
+
+# message queueing with RabbitMQ
+
+https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html
+https://www.cloudamqp.com/blog/2015-05-19-part2-2-rabbitmq-for-beginners_example-and-sample-code-node-js.html
+https://medium.com/better-programming/implementing-rabbitmq-with-node-js-93e15a44a9cc
+https://manifold.co/blog/asynchronous-microservices-with-rabbitmq-and-node-js
