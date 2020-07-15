@@ -1,4 +1,4 @@
-# PingPong
+# KheroKhata (Bengali: খেরোখাতা)
 
 Architecture Principles:
 - microservice architecture
